@@ -7,9 +7,9 @@
 
 ### DIAGRAMS
 
-- 👉[View UML Activity](https://github.com/edmnikolaeva/uml_diagrams/blob/main/uml_activity.jpg)
-- 👉[View UML Sequence](https://github.com/edmnikolaeva/uml_diagrams/blob/main/uml_sequence.jpg)
-- 👉[View UML State Machine](https://github.com/edmnikolaeva/uml_diagrams/blob/main/uml_state_machine.jpg)
+- 👉[UML Activity](https://github.com/edmnikolaeva/uml_diagrams/blob/main/uml_activity.jpg)
+- 👉[UML Sequence](https://github.com/edmnikolaeva/uml_diagrams/blob/main/uml_sequence.jpg)
+- 👉[UML State Machine](https://github.com/edmnikolaeva/uml_diagrams/blob/main/uml_state_machine.jpg)
 
 ---
 
