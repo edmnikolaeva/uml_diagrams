@@ -1,6 +1,5 @@
 # UML Diagrams – System Analysis Examples
 - This repository presents UML behavioral diagrams developed during system analysis and software design activities
-- It includes Activity, Sequence, and State Machine diagrams
 
 ---
 
