@@ -1,5 +1,5 @@
-# UML Diagrams – System Analysis Examples
-- This repository presents UML behavioral diagrams developed during system analysis and software design activities
+# UML Diagrams
+- This repository presents UML behavioral diagrams
 
 ---
 
