@@ -20,7 +20,7 @@ This repository presents UML behavioral diagrams
 - **Purpose:** visualize backend workflow for creating a new *User* after the “Register” action, including validation checks and error handling
 - **Scope:** step-by-step processing in the backend service when receiving a registration request from the frontend
 - **Value:** prevents invalid or duplicate accounts
-- **Related Artifact** --> [User registration: openAPI_specification](https://github.com/edmnikolaeva/rest/blob/main/open_api_registration_book_store.yaml)
+- **Related Artifact** --> [User Registration: openAPI Specification](https://github.com/edmnikolaeva/rest/blob/main/open_api_registration_book_store.yaml)
 
 </td>
 <td width="220">
