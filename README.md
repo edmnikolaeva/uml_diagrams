@@ -1,5 +1,5 @@
 # UML Diagrams
-- This repository presents UML behavioral diagrams
+This repository presents UML behavioral diagrams
 
 ---
 
