@@ -80,5 +80,6 @@ This repository presents UML behavioral diagrams
 
 ---
 
-### 🔗 Related Artifact
+### 🔎 Related Work
+
 - 👉 [Data Flow Diagrams (DFD)](https://github.com/edmnikolaeva/DFD)
